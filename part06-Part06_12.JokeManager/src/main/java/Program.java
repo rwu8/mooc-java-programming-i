@@ -30,7 +30,7 @@ public class Program {
         System.out.println("Jokes are in short supply.");
         } else {
         Random draw = new Random();
-        int index = rand.nextInt(jokes.size());
+        int index = draw.nextInt(jokes.size());
         System.out.println(jokes.get(index));
         }
         } else if (command.equals("3")) {
