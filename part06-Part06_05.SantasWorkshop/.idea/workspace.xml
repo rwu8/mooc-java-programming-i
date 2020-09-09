@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d3698b-0cf8-4d9a-b679-7389e43804f1" name="Default Changelist" comment="" />
+    <list default="true" id="cba9b23b-fe42-44a5-b383-84d75a18f3bd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,31 +24,29 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1hEuRaKemZUz8YOIaS1PONpt4fL" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1hEv2ce3bqV7D8ncxeIQzffpb6i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64d3698b-0cf8-4d9a-b679-7389e43804f1" name="Default Changelist" comment="" />
-      <created>1599588565678</created>
+      <changelist id="cba9b23b-fe42-44a5-b383-84d75a18f3bd" name="Default Changelist" comment="" />
+      <created>1599588859995</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599588565678</updated>
+      <updated>1599588859995</updated>
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="WindowStateProjectService">
+    <state x="2170" y="433" key="#com.intellij.ide.util.MemberChooser" timestamp="1599588990472">
+      <screen x="1792" y="25" width="2560" height="1415" />
+    </state>
+    <state x="2170" y="433" key="#com.intellij.ide.util.MemberChooser/1792.25.2560.1415/0.25.1792.1095@1792.25.2560.1415" timestamp="1599588990472" />
   </component>
 </project>
